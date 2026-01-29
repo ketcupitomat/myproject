@@ -1,8 +1,12 @@
-students = ["Mark", "Jennie", "Yeonchae"]
-for x in students:
-  print(x)
-  if x == "Jennie":
-    break
-  
+#1
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
 
-#Exit the loop when x is "banana":
+#2
+age = 20
+if age >= 18:
+  print("You are an adult")
+  print("You can vote")
+  print("You have full legal rights")
