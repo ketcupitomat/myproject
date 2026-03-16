@@ -1,0 +1,5 @@
+Hello
+This is Practice 6
+File handling in Python
+Appending a new line
+Python is easy!
